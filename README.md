@@ -20,4 +20,4 @@ A web application that predicts reaction products instantly.
 • Demonstration of AI in Chemistry
 
 🚀 Live Demo
-https://sec25am102-spec.github.io/reaction-ai-app
+https://sec25am102-spec.github.io/reaction-ai-webapp
